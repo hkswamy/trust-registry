@@ -8,16 +8,16 @@ This project contains the `trust-registry` chaincode, a smart contract written i
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Data Models](https://www.google.com/search?q=%23data-models)
-      - [GovernanceRecord](https://www.google.com/search?q=%23governancerecord)
-      - [TrustRecord](https://www.google.com/search?q=%23trustrecord)
-  - [Chaincode Functions (API)](https://www.google.com/search?q=%23chaincode-functions-api)
-  - [Setup and Deployment](https://www.google.com/search?q=%23setup-and-deployment)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Building the Chaincode](https://www.google.com/search?q=%23building-the-chaincode)
-      - [Deployment to Hyperledger Fabric](https://www.google.com/search?q=%23deployment-to-hyperledger-fabric)
-  - [Troubleshooting](https://www.google.com/search?q=%23troubleshooting)
+- [Project Overview](#project-overview)
+- [Data Models](#data-models)
+  - [GovernanceRecord](#governancerecord)
+  - [TrustRecord](#trustrecord)
+- [Chaincode Functions (API)](#chaincode-functions-api)
+- [Setup and Deployment](#setup-and-deployment)
+  - [Prerequisites](#prerequisites)
+  - [Building the Chaincode](#building-the-chaincode)
+  - [Deployment to Hyperledger Fabric](#deployment-to-hyperledger-fabric)
+- [Troubleshooting](#troubleshooting)
 
 -----
 
